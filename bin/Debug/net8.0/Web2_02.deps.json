@@ -9,6 +9,7 @@
       "Web2_02/1.0.0": {
         "dependencies": {
           "EFCore.AutomaticMigrations": "8.0.0",
+          "IToolS.Sql": "3.5.58",
           "Microsoft.EntityFrameworkCore": "8.0.3",
           "Microsoft.EntityFrameworkCore.Design": "8.0.3",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.3",
@@ -69,6 +70,29 @@
           "lib/net6.0/Humanizer.dll": {
             "assemblyVersion": "2.14.0.0",
             "fileVersion": "2.14.1.48190"
+          }
+        }
+      },
+      "IToolS/3.5.58": {
+        "runtime": {
+          "lib/netstandard2.0/IToolS.Data.Standard.dll": {
+            "assemblyVersion": "3.5.58.1",
+            "fileVersion": "3.5.58.1"
+          },
+          "lib/netstandard2.0/IToolS.Standard.dll": {
+            "assemblyVersion": "3.5.58.1",
+            "fileVersion": "3.5.58.1"
+          }
+        }
+      },
+      "IToolS.Sql/3.5.58": {
+        "dependencies": {
+          "IToolS": "3.5.58"
+        },
+        "runtime": {
+          "lib/net20/IToolS.IOServers.Sql.dll": {
+            "assemblyVersion": "3.5.58.1",
+            "fileVersion": "3.5.58.1"
           }
         }
       },
@@ -945,6 +969,20 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "IToolS/3.5.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tg3GRlVEQZcHMx57xauMwiUnJSrZZFRYeOgxBMh185hRwihoqwO2/PEhyZLwFRJelKoLk7PoOd1ml2MD/1qIng==",
+      "path": "itools/3.5.58",
+      "hashPath": "itools.3.5.58.nupkg.sha512"
+    },
+    "IToolS.Sql/3.5.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w4uLoygVpHuIMrkIBUQpeLM72jEFPUx9FcgJ2/j4n9CwZWA/AIJ13GjGpM0Diz0BUGVVOveE1eI10xA4FK8RHA==",
+      "path": "itools.sql/3.5.58",
+      "hashPath": "itools.sql.3.5.58.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
       "type": "package",

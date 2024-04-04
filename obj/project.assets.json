@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dngo6\\Documents\\Web2_02\\Web2_02.csproj",
+      "projectUniqueName": "C:\\Users\\dngo6\\Documents\\API_02\\Web2_Api_02\\Web2_02.csproj",
       "projectName": "Web2_02",
-      "projectPath": "C:\\Users\\dngo6\\Documents\\Web2_02\\Web2_02.csproj",
+      "projectPath": "C:\\Users\\dngo6\\Documents\\API_02\\Web2_Api_02\\Web2_02.csproj",
       "packagesPath": "C:\\Users\\dngo6\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dngo6\\Documents\\Web2_02\\obj\\",
+      "outputPath": "C:\\Users\\dngo6\\Documents\\API_02\\Web2_Api_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dngo6\\AppData\\Roaming\\NuGet\\NuGet.Config",
